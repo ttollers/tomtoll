@@ -3,13 +3,15 @@ import "dotenv/config"
 
 const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
+const description = `Rmablings of someone who thinks people might be interested in what he has to say.`
+
 const config: GatsbyConfig = {
   siteMetadata: {
     siteTitle: `TomToll`,
     siteTitleAlt: `TomToll - `,
     siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
     siteUrl: `https://tomtoll.com`,
-    siteDescription: `Rmablings of someone who thinks people might be interested in what he has to say.`,
+    siteDescription: description,
     siteLanguage: `en`,
     author: `@tomtoll_eth`,
   },
@@ -27,7 +29,25 @@ const config: GatsbyConfig = {
     {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
       options: {
+        blogPath:	'/posts',
         initialColorModeName: `dark`,
+        navigation: [{
+          title: 'Posts',
+          slug: '/posts'
+        },
+        {
+          title: 'Why',
+          slug: '/why'
+        },
+        {
+          title: 'Me',
+          slug: '/me'
+        },
+        {
+          title: 'Writing',
+          slug: '/writing'
+        },
+      ],
         externalLinks: [
           {
             name: `Twitter`,
@@ -47,21 +67,18 @@ const config: GatsbyConfig = {
       options: {
         name: `minimal-blog - @lekoarts/gatsby-theme-minimal-blog`,
         short_name: `minimal-blog`,
-        description: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and code highlighting.`,
+        description: description,
         start_url: `/`,
         background_color: `#fff`,
-        // This will impact how browsers show your PWA/website
-        // https://css-tricks.com/meta-theme-color-and-trickery/
-        // theme_color: `#6B46C1`,
         display: `standalone`,
         icons: [
           {
-            src: `/android-chrome-192x192.png`,
+            src: `/ai_me_looking_like_vitalik.jpeg`,
             sizes: `192x192`,
             type: `image/png`,
           },
           {
-            src: `/android-chrome-512x512.png`,
+            src: `/ai_me_looking_like_vitalik.jpeg`,
             sizes: `512x512`,
             type: `image/png`,
           },
@@ -114,7 +131,7 @@ const config: GatsbyConfig = {
   }
 }`,
             output: `rss.xml`,
-            title: `Minimal Blog - @lekoarts/gatsby-theme-minimal-blog`,
+            title: `TomToll - RSS Feed`,
           },
         ],
       },

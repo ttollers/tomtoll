@@ -10,24 +10,24 @@ const HeaderTitle = () => {
   const { siteTitle } = useSiteMetadata()
   const { basePath } = useMinimalBlogConfig()
 
-  const size = 32
   return (
-    <Link
-      to={replaceSlashes(`/${basePath}`)}
+    <IconButton
       aria-label={`${siteTitle} - Back to home`}
-      sx={{ color: `heading`, textDecoration: `none` }}
+      size="small"
+      sx={{ mr: 3}}
     >
-      <IconButton
+      <Link
+        to={replaceSlashes(`/${basePath}`)}
         aria-label={`${siteTitle} - Back to home`}
-        size="small"
+        sx={{ color: `heading`, textDecoration: `none` }}
       >
         <Avatar
-         src="ai_me_looking_like_vitalik.jpeg"
+        src="ai_me_looking_like_vitalik.jpeg"
         >
 
-        </Avatar>
-      </IconButton>
-    </Link>
+      </Avatar>
+      </Link>
+    </IconButton>
 
   )
 }
