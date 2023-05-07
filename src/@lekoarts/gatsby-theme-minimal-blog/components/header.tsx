@@ -17,7 +17,7 @@ const Header = () => {
           <Navigation nav={nav} />
         </Flex>
         </nav>
-        <Flex  sx={{ alignItems: `center`, justifyContent: `space-between` }}>
+        <Flex  sx={{ alignItems: `center`, justifyContent: `space-between`, ml: 3 }}>
           <HeaderExternalLinks />
         </Flex>
       </Flex>

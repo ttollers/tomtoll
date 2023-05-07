@@ -1,6 +1,6 @@
 /** @jsx jsx */
 import useSiteMetadata from "@lekoarts/gatsby-theme-minimal-blog/src/hooks/use-site-metadata"
-import { jsx, Link } from "theme-ui"
+import { jsx, Flex } from "theme-ui"
 
 const Footer = () => {
   const { siteTitle } = useSiteMetadata()
@@ -16,16 +16,16 @@ const Footer = () => {
         a: {
           variant: `links.secondary`,
         },
-        flexDirection: [`column`, `column`, `row`],
+        flexDirection: [`row`, `row`, `row`],
         variant: `dividers.top`,
       }}
     >
-      <div>
-        &copy; {new Date().getFullYear()} by {siteTitle}.
-      </div>
-      <div>
-        <a href="https://twitter.com/tomtoll_eth?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @tomtoll_eth</a>
-      </div>
+        <div>
+          &copy; {new Date().getFullYear()} by {siteTitle}.
+        </div>
+        <div>
+          <a href="https://twitter.com/tomtollinton?ref_src=twsrc%5Etfw" className="twitter-follow-button" data-show-count="false">Follow @tomtollinton</a>
+        </div>
     </footer>
   )
 }

@@ -13,7 +13,7 @@ const config: GatsbyConfig = {
     siteUrl: `https://tomtoll.com`,
     siteDescription: description,
     siteLanguage: `en`,
-    author: `@tomtoll_eth`,
+    author: `@tomtollinton`,
   },
   trailingSlash: `never`,
   plugins: [
@@ -51,7 +51,7 @@ const config: GatsbyConfig = {
         externalLinks: [
           {
             name: `Twitter`,
-            url: `https://twitter.com/tomtoll_eth`,
+            url: `https://twitter.com/tomtollinton`,
           },
         ],
       },
