@@ -8,8 +8,8 @@ const description = `Rmablings of someone who thinks people might be interested 
 const config: GatsbyConfig = {
   siteMetadata: {
     siteTitle: `TomToll`,
-    siteTitleAlt: `TomToll - `,
-    siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
+    siteTitleAlt: `TomToll`,
+    siteHeadline: description,
     siteUrl: `https://tomtoll.com`,
     siteDescription: description,
     siteLanguage: `en`,
