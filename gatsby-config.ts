@@ -14,7 +14,7 @@ const config: GatsbyConfig = {
     siteDescription: description,
     siteLanguage: `en`,
     author: `@tomtollinton`,
-    image: `me_banner.jpg`,
+    image: `/me_banner.jpg`,
   },
   trailingSlash: `never`,
   plugins: [
