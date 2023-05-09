@@ -3,7 +3,7 @@ import "dotenv/config"
 
 const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
-const description = `Rmablings of someone who thinks people might be interested in what he has to say.`
+const description = `It is a truth universally acknowledged that a middle-class man in possession of a good fortune (and privilege) must be in want of a tech blog.`
 
 const config: GatsbyConfig = {
   siteMetadata: {
@@ -14,6 +14,7 @@ const config: GatsbyConfig = {
     siteDescription: description,
     siteLanguage: `en`,
     author: `@tomtollinton`,
+    image: `me_banner.jpg`,
   },
   trailingSlash: `never`,
   plugins: [
