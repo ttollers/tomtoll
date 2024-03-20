@@ -3,7 +3,7 @@ import "dotenv/config"
 
 const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
-const description = `It is a truth universally acknowledged that a middle-class man in possession of a good fortune (and privilege) must be in want of a tech blog.`
+const description = `It is a truth universally acknowledged that a techy man in possession of a privilege must be in want of a blog.`
 
 const config: GatsbyConfig = {
   siteMetadata: {
@@ -30,7 +30,7 @@ const config: GatsbyConfig = {
     {
       resolve: `@lekoarts/gatsby-theme-minimal-blog`,
       options: {
-        blogPath:	'/posts',
+        blogPath: '/posts',
         initialColorModeName: `dark`,
         navigation: [{
           title: 'Posts',
@@ -48,7 +48,7 @@ const config: GatsbyConfig = {
           title: 'Writing',
           slug: '/writing'
         },
-      ],
+        ],
         externalLinks: [
           {
             name: `Twitter`,
