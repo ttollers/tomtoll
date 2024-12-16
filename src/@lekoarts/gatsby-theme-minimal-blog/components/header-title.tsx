@@ -14,22 +14,17 @@ const HeaderTitle = () => {
     <IconButton
       aria-label={`${siteTitle} - Back to home`}
       size="small"
-      sx={{ mr: 3}}
+      sx={{ mr: 3 }}
     >
       <Link
         to={replaceSlashes(`/${basePath}`)}
         aria-label={`${siteTitle} - Back to home`}
         sx={{ color: `heading`, textDecoration: `none` }}
       >
-        <Avatar
-        src="ai_me_looking_like_vitalik.jpeg"
-        >
-
-      </Avatar>
+        <Avatar src="/ai_me_looking_like_vitalik.jpeg"></Avatar>
       </Link>
     </IconButton>
-
-  )
+  );
 }
 
 export default HeaderTitle
