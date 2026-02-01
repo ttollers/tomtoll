@@ -4,11 +4,13 @@
 
 ---
 
-When it comes to Claude Code, the hype really does match the reality. If you're not using it (or similar), stop reading these words right now and go and start using it. Bye.
+When it comes to Claude Code, the hype matches the reality. If you're not using it (or similar), stop reading these words right now and go and start using it. Bye.
 
 Still here? Good. Either you're already converted or you're the kind of person who doesn't do what they're told. Either way, we can continue.
 
-But are productivity gains 1.1x, 2x, 10x or 100x? It's all of the above and here's why.
+What are the productivity gains? Is it 1.1x, 100x? EveryTwitter / LinkedIn / San Fran
+
+1.1x, 2x, 10x or 100x? It's all of the above and here's why...
 
 ---
 
@@ -16,11 +18,11 @@ But are productivity gains 1.1x, 2x, 10x or 100x? It's all of the above and here
 
 Imagine you're building a Lego tower. You place the second brick and it's satisfying - you've just doubled what you've built. By brick 100, you're adding 1%. Same effort, fraction of the dopamine.
 
-This is how all complex work feels. Early progress is intoxicating. Late progress is invisible. And it's not just perception - the impact genuinely does decay over time.
+This is how all complex work feels. Early progress is intoxicating. Late progress feels invisible. And it's not just in your head - you prioritise the important stuff first, so later work genuinely matters less.
 
-Teams prioritise. They do the important stuff first, which is correct, but it also means that by month six you're working on things that matter less than what you shipped in week one. Netflix in 2012 was solving "how do we stream video to millions of people globally." Netflix in 2024 is solving "should the skip intro button appear 0.3 seconds earlier." Both problems are real. One of them built a company.
+This is Impact Decay. Diminishing returns on both perceived progress and impact. Your work matters less over time, and it feels even worse than it is.
 
-This is Impact Decay. Diminishing returns on both progress and impact, compounding together. Your work matters less over time, and it feels even worse than it is.
+This doesn't mean the final 1% isn't important or even essential. It's like building a rocket - 99% of the engineering might be done, but if the last 1% is "the bit that stops it exploding," don't let Katy Perry on just yet.
 
 ---
 
@@ -40,7 +42,7 @@ A few prompts later:
 
 > Book 3 concludes with Frodo throwing the ring into Mount Doom with Sam's help. Meanwhile, the defenders of Gondor distract Sauron with large battles.
 
-Still fast, still impressive. You're shaping something.
+Still fast, still impressive. Productivity definitely feels in the high-double-digit-Xs.
 
 Many prompts later:
 
@@ -54,15 +56,13 @@ Many, many prompts later:
 
 Your productivity gain? Maybe 1.1x. You're tweaking words and the AI is waiting for you to know what you want.
 
-This is Macro to Micro. Early work is generative - you're building worlds. Late work is surgical - you're choosing words. AI is exceptional at the macro. At the micro, it's waiting for instructions that take you just as long to write as the thing itself.
+This is Macro to Micro. Early work is generative - you're building worlds. Late work is surgical - you're tweaking and perfecting. AI is good at both but as your project matures you spend more time prompting for smaller improvements.
 
 ---
 
 ### The 80% Problem
 
-Put these together. Impact Decay means your early work matters more. Macro to Micro means AI supercharges exactly that phase.
-
-So you get to 80% fast - terrifyingly fast. The demos aren't lying.
+Putting these together. Impact Decay means your early work matters more. Macro to Micro means AI supercharges exactly that phase. So you get to 80% fast - terrifyingly fast.
 
 Then you spend the next six months on the remaining 20%. The part where you need to know what you actually want. The part where the prompts get longer than the output. The part where you're staring at the screen wondering if "here at the end of all things" should have a comma.
 
