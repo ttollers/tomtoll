@@ -6,21 +6,21 @@
 
 When it comes to Claude Code, the hype really does match the reality. If you're not using it (or similar), stop reading these words right now and go and start using it. Bye.
 
-But is it 1.1x, 2x, 10x or 100x?
+Still here? Good. Either you're already converted or you're the kind of person who doesn't do what they're told. Either way, we can continue.
 
-It's all of the above. And here's why.
+But are productivity gains 1.1x, 2x, 10x or 100x? It's all of the above and here's why.
 
 ---
 
-### Impact Erosion
+### Impact Decay
 
 Imagine you're building a Lego tower. You place the second brick and it's satisfying - you've just doubled what you've built. By brick 100, you're adding 1%. Same effort, fraction of the dopamine.
 
-This is how all complex work feels. Early progress is intoxicating. Late progress is invisible. And it's not just perception - the impact genuinely does erode over time.
+This is how all complex work feels. Early progress is intoxicating. Late progress is invisible. And it's not just perception - the impact genuinely does decay over time.
 
 Teams prioritise. They do the important stuff first, which is correct, but it also means that by month six you're working on things that matter less than what you shipped in week one. Netflix in 2012 was solving "how do we stream video to millions of people globally." Netflix in 2024 is solving "should the skip intro button appear 0.3 seconds earlier." Both problems are real. One of them built a company.
 
-This is Impact Erosion. Your work has less impact over time - both because it feels that way and because it is that way. The two compound.
+This is Impact Decay. Diminishing returns on both progress and impact, compounding together. Your work matters less over time, and it feels even worse than it is.
 
 ---
 
@@ -34,7 +34,7 @@ Your first prompt:
 
 > Write a fantasy story about a "hobbit" called Frodo. He finds a ring and is tasked with delivering it to a volcano in a distant land called "Mordor" where the main antagonist, Sauron, is gathering his strength. Three books, 300-400 pages each.
 
-Congratulations, you've written a trilogy. Your productivity just went through the roof - 100x? 1000x? Hard to measure something that used to be impossible.
+Congratulations, you've written a trilogy. Well, you haven't - you've described one and the AI has hallucinated something that structurally resembles one. But emotionally? You've written a trilogy. Your productivity just went through the roof - 100x? 1000x? Hard to measure something that used to be impossible.
 
 A few prompts later:
 
@@ -44,7 +44,7 @@ Still fast, still impressive. You're shaping something.
 
 Many prompts later:
 
-> In chapter 5, introduce a character called Tom Bombadil. Make him as boring and pointless to the storyline as possible. Ideally looking to lose about 30% of readers at this point.
+> In chapter 5, introduce a character called Tom Bombadil. Make him as boring and pointless to the storyline as possible. Really lean into it. Ideally looking to lose about 30% of readers - the ones who were only reading for plot. They weren't your real fans anyway.
 
 You're debugging now. You're in the weeds.
 
@@ -60,7 +60,7 @@ This is Macro to Micro. Early work is generative - you're building worlds. Late 
 
 ### The 80% Problem
 
-Put these together. Impact Erosion means your early work matters more. Macro to Micro means AI supercharges exactly that phase.
+Put these together. Impact Decay means your early work matters more. Macro to Micro means AI supercharges exactly that phase.
 
 So you get to 80% fast - terrifyingly fast. The demos aren't lying.
 
