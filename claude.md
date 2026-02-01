@@ -64,7 +64,6 @@ Post content in MDX...
 **Tone**: Edgy, sarcastic, blunt. Say what you mean. Don't soften it.
 
 **Influences**:
-- **Hemingway** - The iceberg theory. Imply, don't explain. Trust the reader. Short sentences. Simple words.
 - **David Mitchell** (British comedian, *Unruly*) - Dry wit, sardonic observations, erudite but not pompous
 
 **Avoid**:
