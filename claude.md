@@ -14,8 +14,14 @@ Personal blog for Tom Tollinton, deployed at https://tomtoll.com. Also publishes
 ```bash
 yarn develop    # Start local dev server
 yarn build      # Production build
-yarn deploy     # Deploy to S3
 yarn clean      # Clear Gatsby cache
+```
+
+## Deploy
+
+```bash
+export AWS_PROFILE=tom-console
+yarn deploy
 ```
 
 ## Project Structure
