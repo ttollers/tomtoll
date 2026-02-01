@@ -56,6 +56,10 @@ const config: GatsbyConfig = {
             name: `Twitter`,
             url: `https://twitter.com/tomtollinton`,
           },
+          {
+            name: `Substack`,
+            url: `https://substack.com/@tomtollinton`,
+          },
         ],
       },
     },

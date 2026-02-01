@@ -24,7 +24,9 @@ const Footer = () => {
           &copy; {new Date().getFullYear()} by {siteTitle}.
         </div>
         <div>
-          <a href="https://twitter.com/tomtollinton?ref_src=twsrc%5Etfw" className="twitter-follow-button" data-show-count="false">Follow @tomtollinton</a>
+          <a href="https://twitter.com/tomtollinton?ref_src=twsrc%5Etfw" className="twitter-follow-button" data-show-count="false">Twitter</a>
+          {` · `}
+          <a href="https://substack.com/@tomtollinton">Substack</a>
         </div>
     </footer>
   )
