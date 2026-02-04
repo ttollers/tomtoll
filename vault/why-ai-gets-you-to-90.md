@@ -8,9 +8,9 @@ Claude Code is gut-wrenchingly good. If you're not using it (or similar), stop r
 
 Still here? Either you're converted or you're the kind of person who doesn't do what they're told. Either way, we can continue.
 
-But how much are the productivity gains? Twitter / LinkedIn / everyone in San Francisco seems to have to have VERY strong opinions that it's a large number followed by an "x".
+But how much are the productivity gains? Twitter / LinkedIn / everyone in San Francisco seems to have to have strong opinions that it's a large number followed by an "x".
 
-Is it 1.1x, 2x, 10x or 100x? They're all kind of right - and here's why...
+Is it 1.1x, 2x, 10x or 100x?
 
 ---
 
@@ -53,7 +53,7 @@ These concepts compound. The longer you work on a thing, the more you're tweakin
 
 And it applies at every scale. Netflix in 2016 was scaling to feed the demand of a global audience. In 2026 it's improving the "skip recap" button.
 
-A small ticket to add a simple flag? The AI probably does it first time... But you've still got to review, deploy, monitor, update docs and communicate the change with customers.
+At the other end of the spectrum, a small task adding some basic if/else logic? The AI probably does it first time... But you've still got to review, deploy, monitor, update docs and communicate the change with customers.
 
 ---
 
@@ -69,14 +69,13 @@ The obvious counterargument: If everyone ships at 90%, how do you differentiate?
 
 **Leverage yourself**
 
-You can now leverage yourself. There are 2 ways of doing this:
+You can now leverage yourself. Wherever possible, make AI do everything - even if you could do it faster.
 
-1) Wherever possible, make AI do everything - even if you could do it faster.
-2) Work in parallel. Kick off a task, let it run and come back to it. Have 10 of them going in parallel. If you ever find yourself waiting for an AI to respond - you're wasting time.
+This allows you to work in parallel. Kick off a task, let it run and come back to it. Have 10 of them going. If you ever find yourself waiting for an AI to respond you're wasting time.
 
 Working in parallel is a strange one. Software Engineering advice up until now has always been about preventing context switching and getting in "flow". Now I'm advocating the opposite.
 
-It's a new uncomfortable way of working... But you've got to embrace it or you'll be left behind in an increasingly scary world.
+It's a new uncomfortable way of working... But there's a lot of upside for those willing to embrace it and there'll likely be no mercy for those left behind.
 
 ---
 
