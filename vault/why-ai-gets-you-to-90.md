@@ -1,4 +1,4 @@
-# Why AI Gets You to 80%
+# Why AI Gets You to 90%
 
 ## Draft 1
 
@@ -46,12 +46,37 @@ Many, many prompts later:
 
 This is Prompt Inflation. As your project matures, you spend more prompts for smaller gains.
 
-And it applies at every scale. Greenfield app? First prompt writes the skeleton. Tiny feature on a massive codebase? First prompt still gets you 80%.
+---
+### The 90% Problem
+
+These concepts compound. The longer you work on a thing, the more you're tweaking & prompting, the less value you're delivering.
+
+And it applies at every scale. Netflix in 2016 was scaling to feed the demand of a global audience. In 2026 it's improving the "skip recap" button.
+
+A small ticket to add a simple flag? The AI probably does it first time... But you've still got to review, deploy, monitor, update docs and communicate the change with customers.
 
 ---
-### The 80% Problem
 
-Neither of these concepts are new. Claude Code has just collapsed the early phase so completely that the late phase is now most of the job. The 80% still happens. You just don't experience it anymore.
+### So What?
+
+How can we prevent ourselves being bogged down by the the final 10%?
+
+**Lower your standards**
+
+Perhaps 90% is fine. Most things don't need to be perfect - you can see if anyone notices the missing 10%.
+
+The obvious counterargument: If everyone ships at 90%, how do you differentiate? The market for 90% done stuff could be about to get crowded.
+
+**Leverage yourself**
+
+You can now leverage yourself. There are 2 ways of doing this:
+
+1) Wherever possible, make AI do everything - even if you could do it faster.
+2) Work in parallel. Kick off a task, let it run and come back to it. Have 10 of them going in parallel. If you ever find yourself waiting for an AI to respond - you're wasting time.
+
+Working in parallel is a strange one. Software Engineering advice up until now has always been about preventing context switching and getting in "flow". Now I'm advocating the opposite.
+
+It's a new uncomfortable way of working... But you've got to embrace it or you'll be left behind in an increasingly scary world.
 
 ---
 

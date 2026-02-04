@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "why-ai-gets-you-to-80.md",
+                "file": "why-ai-gets-you-to-90.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "why-ai-gets-you-to-80"
+              "title": "why-ai-gets-you-to-90"
             }
           }
         ]
@@ -203,6 +203,6 @@
   "lastOpenFiles": [
     "Welcome.md",
     "are-we-fucked.md",
-    "why-ai-gets-you-to-80.md"
+    "why-ai-gets-you-to-90.md"
   ]
 }
