@@ -20,6 +20,8 @@ Imagine you're building a Lego tower. You place the second brick and it's satisf
 
 What's more - you prioritise the impactful stuff first... Obviously! However, that implies that the more you work, the less important each next task is.
 
+This is Impact Decay. Diminishing returns on progress.
+
 This doesn't mean the final 1% isn't important or even essential. If you're building a rocket - 99% of the engineering might be done, but if the last 1% is "the bit that stops it exploding," don't let Katy Perry on board just yet.
 
 ---
@@ -42,7 +44,7 @@ Many, many prompts later:
 
 > When Sam says "I can't carry the ring, but I can carry you" — can we try "I can't carry it for you, but I can carry you"? Actually that's worse. Go back. But maybe italicise "you"?
 
-As your project matures, you spend more prompts for smaller gains.
+This is Prompt Inflation. As your project matures, you spend more prompts for smaller gains.
 
 ---
 ### The 90% Problem
