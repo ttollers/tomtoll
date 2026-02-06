@@ -8,7 +8,7 @@ Claude Code is gut-wrenchingly good. If you're not using it (or similar), stop r
 
 Still here? Either you're converted or you're the kind of person who doesn't do what they're told. Either way, we can continue.
 
-But how much are the productivity gains? Twitter / LinkedIn / everyone in San Francisco seems to have to have strong opinions that it's a large number followed by an "x".
+But how much are the productivity gains? Twitter / LinkedIn / everyone in San Francisco seems to have strong opinions that it's a large number followed by an "x".
 
 Is it 1.1x, 2x, 10x or 100x?
 
