@@ -1,4 +1,4 @@
-# Why AI Gets You to 90%
+# Prompt Inflation
 
 ## Draft 1
 
@@ -24,7 +24,7 @@ This doesn't mean the final 1% isn't important or even essential. If you're buil
 
 ---
 
-### Prompt Inflation
+### A World Without Tolkein
 
 Let's say you're using Claude to write some fantasy novels.
 
@@ -42,14 +42,12 @@ Many, many prompts later:
 
 > When Sam says "I can't carry the ring, but I can carry you" — can we try "I can't carry it for you, but I can carry you"? Actually that's worse. Go back. But maybe italicise "you"?
 
-Call it Prompt Inflation. The more mature your project, the more prompts you spend for smaller gains.
-
 ---
 ### The 90% Problem
 
-These concepts compound. The longer you work on a thing, the more time you're tweaking, the less value you're delivering.
+These concepts compound. The longer you work on a thing, the more time you're tweaking, the less value you're delivering. Call it Prompt Inflation. The more mature your project, the more prompts you spend for smaller gains.
 
-And it applies at every scale. Netflix in 2016 was scaling to feed the demand of a global audience. In 2026 it's improving the "skip recap" button and keeping the lights on. This is no slight on Netflix. It's just that tech is no longer their edge as each new improvement is marginal. Content is their real edge.
+And it applies at every scale. Netflix in 2016 was scaling to feed the demand of a global audience. In 2026 it's improving the "skip recap" button and keeping the lights on. This is no slight on Netflix. It's just that tech is no longer their edge as each new improvement is marginal. Content has become their real edge.
 
 At the other end of the spectrum, a small task adding some basic if/else logic? The AI probably does it first time. But you've still got to test, review, deploy, monitor, update docs and communicate the change with customers.
 
@@ -77,6 +75,9 @@ For example, go from:
 To: 
 >Build me a web based game similar to Space Invaders. Use https://freeinvaders.org/ as a template. Keep iterating until you have reached a passable first version where user can use keys + spacebar to shoot aliens. Use Claude in chrome to run it yourself and verify it is done.
 
+![[Pasted image 20260209215917.png]]
+The result of this prompt is really, really, really quite impressive.
+
 **Leverage yourself**
 
 If you've got the AI iterating, it's likely going to be working independently for 10+ minutes.
@@ -89,9 +90,11 @@ It's a new uncomfortable way of working... But there's a lot of upside for those
 
 ---
 
-### The Last 10%
+### The Final 10%
 
-All of the above will make you faster. Including the last 10%. But diminishing returns are a ratio, so the last 10% still feels just as painful relative to everything before it. You just got to brick 99 quicker. Brick 100 still takes the same disproportionate effort.
+All of the above will make you faster. Maybe 100x faster. But Prompt Inflation lingers like the ending of Return of the King. 
 
-And if you've taken the parallel work seriously, you now have ten projects at 90%. There's no way around it - only to grind through it.
+Diminishing returns are a ratio, so the last 10% still feels just as painful relative to everything before it. You may get to brick 99 quicker. But brick 100 still takes the same disproportionate effort.
+
+And if you've taken the parallel work seriously, you now have ten projects at 90%. There's no way around the final 10% - only to grind through it.
 
