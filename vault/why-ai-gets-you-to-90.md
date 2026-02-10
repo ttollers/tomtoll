@@ -76,7 +76,7 @@ To:
 >Build me a web based game similar to Space Invaders. Use https://freeinvaders.org/ as a template. Keep iterating until you have reached a passable first version where user can use keys + spacebar to shoot aliens. Use Claude in chrome to run it yourself and verify it is done.
 
 ![[Pasted image 20260209215917.png]]
-The result of this prompt is really, really, really quite impressive.
+Screenshot of me playing Space Invaders after using the second prompt. The first prompt failed to compile.
 
 **Leverage yourself**
 
