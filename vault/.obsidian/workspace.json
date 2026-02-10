@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "why-ai-gets-you-to-90.md",
+                "file": "prompt-inflation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "why-ai-gets-you-to-90"
+              "title": "prompt-inflation"
             }
           }
         ]
@@ -36,8 +36,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "455e1bab02867ce0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,10 +212,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "2d64236bfc5cf92f",
+  "active": "ceab07346a42f031",
   "lastOpenFiles": [
-    "why-ai-gets-you-to-90.md",
+    "tom-bombadil-90.png",
+    "ai-productivity-tips.md",
+    "Pasted image 20260209215917.png",
     "Welcome.md",
+    "prompt-inflation.md",
     "are-we-fucked.md"
   ]
 }
